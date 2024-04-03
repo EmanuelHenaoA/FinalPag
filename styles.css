@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Workbench&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@400..700&family=Workbench&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@400..700&family=Pacifico&family=Workbench&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rakkas&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Rakkas&family=Rowdies:wght@300;400;700&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rakkas&family=Rowdies:wght@300;400;700&family=Rubik+Scribble&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Rakkas&family=Rowdies:wght@300;400;700&family=Rubik+Scribble&display=swap');
+
+.hu{
+    font-family: "Antic Slab", serif;
+    font-size: 30px;
+}
+
+.hu1{
+    font-family: "Antic Slab", serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.jk{
+    font-family: "Rowdies", sans-serif;
+}
+
+.ms{
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+
+.dk{
+    font-family: "Rakkas", serif;
+}
+
+.rr{
+    font-family: 'Rubik Scribble', system-ui; ;
+}
+
+.lk{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+}
+
+.mm{
+    font-family: 'Pacifico', sans-serif;
+}
+
+.kk{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.kr{
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    font-weight: bold;
+
+}
+
+.sk{
+    font-family: 'anton', sans-serif;
+}
+
+.fk{
+    font-family: 'gamja-flower', sans-serif;
+}
+
+.wk{
+    font-family: 'workbench', sans-serif;
+    font-size: 40px;
+}
+
+.center{
+    text-align: center;
+}
+
+.blanco{
+    background-color: rgb(0, 255, 136);
+}
+
+.ver{
+    color: rgb(94, 145, 119);
+    font-size: 23px;
+}
+
+.card{
+    border-radius: 11px;
+    border: 3px;
+    
+
+}
+
+.cardd{
+    width: 372px;
+}
+
+.cardt{
+    width: 550px;
+}
+
+.img{
+    margin-top: 3px;
+}
+
+.verm{
+    border: 4px solid rgba(0, 0, 0, 0.74);
+    border-radius: 5px;
+    padding: 6px;
+    font-weight: bold;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 253, 253);
+}
+
+.verm:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    opacity: 0.9;
+}
+
+.bor{
+    border-radius: 8px;
+}
+ 
+.car{
+    width: 280px;
+    
+}
+
+.letr{
+    color: rgb(0, 255, 136);
+}
+
+.form{
+    color: white;
+}
